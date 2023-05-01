@@ -8,6 +8,7 @@ In this article, we will take a look at Canva Docs' features and how to use them
 - [What is Canva?](#what-is-canva)
 - [What is Canva Docs?](#what-is-canva-docs)
 - [What is Canva Docs to Decks?](#what-is-canva-docs-to-decks)
+- [Features of Canva Docs to Decks](#features-of-Canva-docs-to-decks)
 - [Getting started with Canva Docs to Decks](#getting-started-with-canva-docs-to-decks)
 - [Docs to Decks: Converting your Canva Docs to presentations](#Docs-to-Decks-Converting-your-Canva-Docs-to-presentations)
 - [Conclusion](#conclusion) 
@@ -24,6 +25,21 @@ Canva Docs eliminates switching between multiple applications when creating visu
 
 ## **What is Canva Docs to Decks?** <a name="What is Canva Docs to Decks"></a>
 Canva Docs to Decks is a presentation tool within Canva that allows you to create a professional-looking collection of slides to use as visual aids during a pitch or presentation. Canva Docs to Decks come with pre-designed templates that include a variety of design elements, such as background images, fonts, color schemes, and graphics, all of which can be customized to your liking. Text, photos, and other elements can also be included in Canva Docs to Decks. <br/> Canva Docs to Decks also allow you to collaborate with others, which comes in handy when working on group projects. Overall, Canva Docs to Decks are a great tool for creating visually appealing and engaging presentations, even if you do not have much design experience.
+
+## **Features of canva Docs to Decks** <a name="Features of Canva Docs to decks"></a>
+
+1. **Accessibility:** Canva Docs to Decks allows you to create stunning presentations on both mobile and desktop devices with an internet connection, allowing you to work on your presentation from anywhere.<br/>
+
+2. **Templates Library:** Canva Docs to Decks has a standard template library with a wide range of customizable templates to help users with their presentations.<br/>
+
+3. **Design Elements:** Users can enhance their presentations by adding and customizing design elements such as images, icons, charts, graphs, and tables from canva's extensive library of design elements.<br/>
+
+4. **Collaboration:** Canva Docs to Decks streamlines group presentations and projects by allowing users with permission to collaborate in real-time on the same presentation. Users can also leave comments and feedback on specific aspects of the presentation. 
+<br/>
+
+5. **Download Options:** Users can download their presentations as PDFs or PowerPoint files, making them simple to share and present in a variety of formats.<br/>
+
+6. **Customization:** Users can add their own brand colors and logos to customize their presentations. 
 
 ## **Getting started with Canva Docs to Decks** <a name="getting started with Canva docs to decks"></a>
 
@@ -130,4 +146,5 @@ To summarize, Canva Docs to Decks is a fantastic tool for quickly creating eye-c
 **Q Is Canva Docs to Decks free?**<br/>
 **A** Canva Docs to Decks is available in both free and paid versions. You can create presentations with a limited number of templates and design elements in the free version. Canva Pro, on the other hand, allows you to add advanced features that better suit your needs, such as branding, analytics, custom fonts, and even unlimited team members for collaboration.<br/>
 
-
+**Q** Is there a mobile app for Canva docs to Decks?<br/>
+**A** Canva Docs to Decks is available as a feature in the Canva mobile app for both iOS and Android.
