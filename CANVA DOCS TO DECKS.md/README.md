@@ -23,7 +23,7 @@ Canva Docs eliminates switching between multiple applications when creating visu
 
 
 ## **What is Canva Docs to Decks?** <a name="What is Canva Docs to Decks"></a>
-Canva Decks is a presentation tool within Canva that allows you to create a professional-looking collection of slides to use as visual aids during a pitch or presentation. Canva Decks come with pre-designed templates that include a variety of design elements, such as background images, fonts, color schemes, and graphics, all of which can be customized to your liking. Text, photos, and other elements can also be included in Canva decks. <br/> Canva decks also allow you to collaborate with others, which comes in handy when working on group projects. Overall, Canva Decks are a great tool for creating visually appealing and engaging presentations, even if you do not have much design experience.
+Canva Docs to Decks is a presentation tool within Canva that allows you to create a professional-looking collection of slides to use as visual aids during a pitch or presentation. Canva Docs to Decks come with pre-designed templates that include a variety of design elements, such as background images, fonts, color schemes, and graphics, all of which can be customized to your liking. Text, photos, and other elements can also be included in Canva Docs to Decks. <br/> Canva Docs to Decks also allow you to collaborate with others, which comes in handy when working on group projects. Overall, Canva Docs to Decks are a great tool for creating visually appealing and engaging presentations, even if you do not have much design experience.
 
 ## **Getting started with Canva Docs to Decks** <a name="getting started with Canva docs to decks"></a>
 
