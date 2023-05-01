@@ -146,5 +146,5 @@ To summarize, Canva Docs to Decks is a fantastic tool for quickly creating eye-c
 **Q Is Canva Docs to Decks free?**<br/>
 **A** Canva Docs to Decks is available in both free and paid versions. You can create presentations with a limited number of templates and design elements in the free version. Canva Pro, on the other hand, allows you to add advanced features that better suit your needs, such as branding, analytics, custom fonts, and even unlimited team members for collaboration.<br/>
 
-**Q** Is there a mobile app for Canva docs to Decks?<br/>
+**Q Is there a mobile app for Canva docs to Decks?**<br/>
 **A** Canva Docs to Decks is available as a feature in the Canva mobile app for both iOS and Android.
