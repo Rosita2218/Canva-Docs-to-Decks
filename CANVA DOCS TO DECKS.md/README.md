@@ -13,7 +13,7 @@ In this article, we will take a look at features of Canva Docs to Decks and how 
 - [Why Choose Canva Docs to Decks?](#why-choose-canva-docs-to-decks)
 - [Getting started with Canva Docs to Decks.](#getting-started-with-canva-docs-to-decks)
 - [Docs to Decks: Converting your Canva Documents to presentations.](#Docs-to-Decks-Converting-your-Canva-Documents-to-presentations)
-- [Alternatives Of canva Docs to Decks.](#alternatives-of-canva-docs-to-decks)
+- [Alternatives Of Canva Docs to Decks.](#alternatives-of-canva-docs-to-decks)
 - [Conclusion](#conclusion) 
 - [FAQS](#faqs)
 
