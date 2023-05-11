@@ -4,8 +4,7 @@
 ## **INTRODUCTION** <br/>
 Effective communication in business, academia, or any field that involves sharing information with others requires the ability to create visually appealing presentations. Creating an engaging and professional-looking deck, on the other hand, can be time-consuming and difficult, especially if you do not have a background in graphic design.<br/>
 Canva Docs to Decks is an easy-to-use platform for creating high-quality presentations.
-This article will look at the Canva Docs to Decks features and how to use them to create visually appealing decks that will captivate your audience.
-<br/>
+This article will look at the Canva Docs to Decks features and how to use them to create visually appealing decks that will captivate your audience.<br/>
 
 - [What is Canva?](#what-is-canva)
 - [What is Canva Docs?](#what-is-canva-docs)
