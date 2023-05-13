@@ -1,7 +1,7 @@
-## **CANVA DOCS TO DECKS: CREATING OUTSTANDING PRESENTATIONS WITH CANVA DOCS TO DECKS** ##
+## **Canva Docs to Decks: Creating Outstanding Presentations with Canva Docs to Decks** ##
 
   ![CANVA DOCS TO DECKS LOGO](CANVA%20DOCS%20WITH%20LOGO.webp)
-## **INTRODUCTION** <br/>
+## **Introduction** <br/>
 Effective communication in business, academia, or any field that involves sharing information with others requires the ability to create visually appealing presentations. Creating an engaging and professional-looking deck, on the other hand, can be time-consuming and difficult, especially if you do not have a background in graphic design.<br/>
 Canva Docs to Decks is an easy-to-use platform for creating high-quality presentations.
 The Canva Docs to Decks features will be covered in this article along with tips on how to use them to create visually stunning decks that will keep readers interested.<br/>
