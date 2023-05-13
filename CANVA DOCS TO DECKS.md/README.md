@@ -11,27 +11,27 @@ The Canva Docs to Decks features will be covered in this article along with tips
 - [What is Canva Docs to Decks?](#what-is-canva-docs-to-decks)
 - [Features of Canva Docs to Decks.](#features-of-Canva-docs-to-decks)
 - [Why Choose Canva Docs to Decks?](#why-choose-canva-docs-to-decks)
-- [Getting started with Canva Docs to Decks.](#getting-started-with-canva-docs-to-decks)
-- [Docs to Decks: Converting your Canva Documents to presentations.](#Docs-to-Decks-Converting-your-Canva-Documents-to-presentations)
-- [Alternatives to Canva Docs to Decks.](#alternatives-of-canva-docs-to-decks)
+- [Getting Started with Canva Docs to Decks.](#getting-started-with-canva-docs-to-decks)
+- [Docs to Decks: Converting Your Documents to Presentations.](#docs_to_decks_converting-your-documents-to-presentations)
+- [Alternatives to Canva Docs to Decks.](#alternatives-to-canva-docs-to-decks)
 - [Conclusion](#conclusion) 
-- [FAQS](#faqs)
+- [FAQs](#faqs)
 
 ## What is Canva?<a name="What is Canva"></a>
 
 Canva is a simple design tool that allows you to quickly create eye-catching content such as social media posts, business cards, and presentations. To make the design process easier, it includes a plethora of templates, images, customizable fonts, and branding options.<br/>Canva, whether you are a beginner or an expert, allows you to unleash your creativity and create beautiful designs with ease. Canva serves as a one-stop shop for all of your design requirements.
 
-## What is Canva Docs?<a name="What is Canva Docs"></a>
+## What is Canva Docs?<a name="What is Canva Docs?"></a>
 
 Canva Docs is a Canva feature that allows you to use Canva's design tools to create and edit documents, presentations, and spreadsheets. It supports real-time collaboration from any device with an internet connection and provides a variety of templates for various document types.<br/> Canva Docs makes it easier to create professional-looking documents and receive feedback. It saves time and increases productivity while requiring no advanced design or technical skills.
 <br/>
 
 
-## What is Canva Docs to Decks?<a name="What is Canva Docs to Decks"></a>
+## What is Canva Docs to Decks?<a name="What is Canva Docs to Decks?"></a>
 
 Canva Docs to Decks is a presentation tool within Canva that allows you to create a professional-looking collection of slides to use as visual aids during a pitch or presentation. Canva Docs to Decks come with pre-designed templates that include a variety of design elements, such as background images, fonts, color schemes, and graphics, all of which can be customized to your liking. Canva Docs to Decks can also include text, photos, and other elements. <br/>Canva Docs to Decks also allow you to collaborate with others, which comes in handy when working on group projects.<br/> Overall, Canva Docs to Decks is a great tool for creating visually appealing and engaging presentations, even if you do not have much design experience.
 
-## Features of Canva Docs to Decks<a name="Features of Canva Docs to decks"></a>
+## Features of Canva Docs to Decks<a name="Features of Canva Docs to Decks"></a>
 
 Canva Docs to Decks offers a unique set of features and capabilities for creating and presenting documents. Here are some key features of Canva Docs to Decks:<br/>
 
@@ -47,7 +47,7 @@ Canva Docs to Decks offers a unique set of features and capabilities for creatin
 Canva Docs to Decks is fully integrated with Google Drive, which means it can connect to your account and directly import your documents, images, and videos into Canva for easy transformation into professional-looking slides.<br/>
 This eliminates the need to copy and paste content from Google Drive into Canva manually.<br/>
 
-## Why Choose Canva Docs to Decks?<a name="Why choose Canva Docs to Decks"></a>
+## Why Choose Canva Docs to Decks?<a name="Why Choose Canva Docs to Decks?"></a>
 
 Canva Docs to Decks offers advantages that set it apart from other document creation and presentation tools. For the following reasons, it is an excellent alternative to traditional deck-creation software:
 
@@ -64,7 +64,7 @@ Canva Docs to Decks offers advantages that set it apart from other document crea
 
 6. **Cloud-Based:** Canva Docs to Decks users can access their work from any location with an internet connection and collaborate in real-time with others. <br/>Canva Docs to Decks allows users to access their data and applications from anywhere with an internet connection, eliminating the need for on-premises infrastructure and maintenance.
 
-## Getting started with Canva Docs to Decks<a name="getting started with Canva docs to decks"></a>
+## Getting Started with Canva Docs to Decks<a name="Getting Started with Canva Docs to Decks"></a>
 
 1. Sign in to your Canva account to begin. If you do not already have a Canva account, you must create one. To create one, you must first have a Google account. Type [canva.com](https://www.canva.com/) into your browser's search bar to be directed to the Canva website.<br/>
 ![canva web search](CANVA%20WEB%20SEARCH.png)<br/>
@@ -81,7 +81,7 @@ Canva Docs to Decks offers advantages that set it apart from other document crea
 ![CANVA CHOOSE GOOGLE ACCOUNT](CANVA%20CHOOSE%20GOOGLE%20ACCOUNT%20.png)
 ![CANVA HOMEPAGE](CANVA%20HOMEPAGEE.png)
 
-## Docs to Decks: Converting your Canva Documents to presentations<a name="Docs to Decks:Converting Canva Documents to Presentations"></a>
+## Docs to Decks: Converting Your Documents to Presentations<a name="Docs to Decks: Converting Your Documents to Presentations"></a>
 
 Creating decks in Canva Docs is straightforward. Here are the steps:<br/>
 1. Click `Docs` on the Canva homepage.
@@ -159,7 +159,7 @@ Here, you can also grant access to people you want to view the presentation and 
 2. Click `Upload an image or video`, and you will be directed to your local drive, where you can select the document you want to convert into a presentation.<br/>
 ![](CANVA%20CLICK%20UPLOAD.png)<br/>
 
-## Alternatives to Canva Docs to Decks<a name="Alternatives of Canva Docs to Decks"></a>
+## Alternatives to Canva Docs to Decks<a name="Alternatives to Canva Docs to Decks"></a>
 
 1.  **Microsoft PowerPoint** <br/>
 
@@ -195,7 +195,7 @@ Google Slides is a free cloud-based presentation software that allows for real-t
 
 To summarize, Canva Docs to Decks is a fantastic tool for quickly creating eye-catching presentations. Canva's user-friendly interface, collaborative features, and extensive collection of templates make it simple for anyone to create, share, and export presentations, whether they are for a group presentation, a pitch, a proposal, or a training session, or you simply need to create stunning documents quickly and easily that will capture your audience's attention.<br/>
 
-## FAQS<a name="FAQS"></a>
+## FAQs<a name="FAQs"></a>
 
 **Q Can someone else edit my presentation?**<br/>
 **A** Yes, anyone you permit can edit your presentation. When you share the link to your presentation with others, you can grant them access to edit only, comment only, or view only. <br/>
